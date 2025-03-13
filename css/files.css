@@ -8,3 +8,30 @@ body{
 button{
     color: chartreuse;
 }
+
+.navdiv {
+display: flex;align-items: center;
+}
+
+.logo{ 
+font: size 50px;color: aqua ;
+}
+
+.navbar {
+background-color: beige;
+}
+
+button {
+font-size: 45px;color: aquamarine;
+}
+button a{
+background-color: aquamarine;
+}
+ 
+li {
+color: beige;
+}
+
+li a{
+color: beige;
+}
