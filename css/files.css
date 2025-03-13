@@ -10,16 +10,15 @@ button{
 }
 
 .navdiv {
-display: flex;align-items: center;
+display: flex;align-items: center;justify-content: space-between;
 }
 
 .logo{ 
-font: size 50px;color: aqua ;
+font: size 50px;color: aqua ;font-weight: 600;
 }
 
 .navbar {
-background-color: beige;
-}
+background-color: beige;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding-right: 15px;
 
 button {
 font-size: 45px;color: aquamarine;
