@@ -15,4 +15,6 @@ button {
 button a {
     color: black; font-weight: bold; font-size: 10px;
 }
-
+ .logo {
+    font-size: 40px; color: blue;
+}
