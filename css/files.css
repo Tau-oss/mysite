@@ -5,32 +5,5 @@ h1 {
 body{
     background-color: beige;
 }
-button{
-    color: chartreuse;
-}
 
-.navdiv {
-display: flex;align-items: center;justify-content: space-between;
-}
 
-.logo{ 
-font: size 50px;color: aqua ;font-weight: 600;
-}
-
-.navbar {
-background-color: beige;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding-right: 15px;
-
-button {
-font-size: 45px;color: aquamarine;
-}
-button a{
-background-color: aquamarine;
-}
- 
-li {
-color: beige;
-}
-
-li a{
-color: beige;
-}
