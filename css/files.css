@@ -24,3 +24,7 @@ ul {
 navdiv {
     color: #000;
 }
+
+.img {
+    float: left;
+}
