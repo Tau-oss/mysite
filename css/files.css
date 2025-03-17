@@ -21,3 +21,6 @@ button a {
 ul { 
     float: left; margin-left: 20px;
 }
+navdiv {
+    color: #000;
+}
